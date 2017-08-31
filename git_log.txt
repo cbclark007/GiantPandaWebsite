@@ -1,0 +1,8 @@
+e541434e6fad442bb875ffdebb0b162cdb10a439 (HEAD -> master) finish conservation
+74d83557c293ffab0b655a1c37c3ba3995fa2ffb Index content improved
+d438e72970fa5f04ae2edc0937e981f96b62a29d Facts page, index formatting
+180ffc950184675e30e3f819c3f585c409dd8d1f Margins, small bits of stuff, starting on facts
+19f445dc89b8340e384b8b3eec72bd2b134bae26 Index first draft done
+f148949b184d462551654c3c1e9a5f37f86d16a3 (origin/master) navigation size
+26c08f9f1b4834f59419e30deff467fc031b0812 Navigation and Readme
+8b0d456cafa5388b4e15162a37fa43319dda678c Initial Commit
